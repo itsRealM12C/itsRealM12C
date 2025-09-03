@@ -10,4 +10,4 @@ itsRealM12C/itsRealM12C is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="ship.png">
+<img src="ship.png" width="50" height="100">
